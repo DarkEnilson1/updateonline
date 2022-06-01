@@ -1,0 +1,13 @@
+body
+{
+  overflow: hidden;
+  position: fixed;
+  font-family: 'Palanquin Dark', sans-serif;
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfgmvyF3ZkksqgVOVqPWqzHoONLtUNjiETGA&usqp=CAU);
+  background-size: 100% 100%;
+  color: white;
+  margin: 0px;
+  left: 0px;
+  top: 0px;
+  height: 100%;
+  width: 100%;
